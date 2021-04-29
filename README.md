@@ -1,3 +1,6 @@
+Js.py file is for the Logitech joystick.
+Ks_v2 file for PS4 controller
+
 # PyGressBar
 Simple progress bar with pygame
 
